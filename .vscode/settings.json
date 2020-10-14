@@ -1,0 +1,6 @@
+{
+    "blade.format.enable": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "html.format.indentInnerHtml": true
+}
